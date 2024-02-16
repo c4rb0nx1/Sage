@@ -1,8 +1,9 @@
 from crewai import Agent
 from langchain_google_genai import ChatGoogleGenerativeAI
+from API_KEYS import api_key
 
 # Your API Key here
-llm_api_key =  "Add You API Key Here"
+llm_api_key =  api_key #add your api key directly with "api key" here or externally 
 
 # Define a LLM, We'll be using Google's gemini-pro since it's free.
 llm = ChatGoogleGenerativeAI(
