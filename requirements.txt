@@ -1,0 +1,6 @@
+questionary
+argparse
+crew
+pyperclip
+threading
+itertools
