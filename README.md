@@ -16,7 +16,7 @@ Source: https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comp
 python3 main.py "Your prompt/query" 
 python3 main.py --flag "Your prompt/query"
 ```
-#### Flags and their usage
+#### Flags 
 > -c or --command is used to force sage to only return the command required.
 
 > -e or --explain is used to eloborate a given command
