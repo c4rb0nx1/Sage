@@ -11,12 +11,23 @@
 Source: https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison
 </div>
 
+### Installation
+```sudo apt update```
+
+```git clone https://github.com/c4rb0nx1/Sage.git```
+
+```pip install -r requirements.txt```
+
+
 ### USAGE
-```
+```python
 python3 main.py "Your prompt/query" 
-python3 main.py --flag "Your prompt/query"
 ```
-#### Flags 
+```python
+python3 main.py --flag "Your prompt/query" ```
+
+#### Flags
+
 > -c or --command is used to force sage to only return the command required.
 
 > -e or --explain is used to eloborate a given command
