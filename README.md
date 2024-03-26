@@ -7,4 +7,4 @@
 </div>
 
 <img src = "https://github.com/c4rb0nx1/Sage/assets/90444898/bfda9e57-7735-4daa-98f5-578efcf6fd47" >
-Source:https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison
+Source: https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison
