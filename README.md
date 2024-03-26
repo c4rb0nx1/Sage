@@ -22,9 +22,11 @@ Source: https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comp
 ### USAGE
 ```python
 python3 main.py "Your prompt/query" 
+
 ```
 ```python
-python3 main.py --flag "Your prompt/query" ```
+python3 main.py --flag "Your prompt/query"
+```
 
 #### Flags
 
