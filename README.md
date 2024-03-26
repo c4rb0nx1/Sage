@@ -10,7 +10,7 @@
 Source: https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comparison
 </div>
 
-### Installation
+### Installation:
 ```sudo apt update```
 
 ```git clone https://github.com/c4rb0nx1/Sage.git```
@@ -18,7 +18,7 @@ Source: https://www.vellum.ai/blog/llm-benchmarks-overview-limits-and-model-comp
 ```pip install -r requirements.txt```
 
 
-### USAGE
+### USAGE:
 ```python
 python3 main.py "Your prompt/query" 
 
@@ -27,7 +27,7 @@ python3 main.py "Your prompt/query"
 python3 main.py --flag "Your prompt/query"
 ```
 
-### Flags
+### Flags:
 
 > -c or --command is used to force sage to only return the command required.
 
