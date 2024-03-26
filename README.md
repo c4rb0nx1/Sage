@@ -27,7 +27,7 @@ python3 main.py "Your prompt/query"
 python3 main.py --flag "Your prompt/query"
 ```
 
-#### Flags
+### Flags
 
 > -c or --command is used to force sage to only return the command required.
 
