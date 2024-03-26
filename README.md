@@ -18,6 +18,9 @@ python3 main.py --flag "Your prompt/query"
 ```
 #### Flags and their usage
 > -c or --command is used to force sage to only return the command required.
+
 > -e or --explain is used to eloborate a given command
-> -is or --install return only the steps needed to install a tool 
+
+> -is or --install return only the steps needed to install a tool
+
 > -rg or --regenrate is used to regenerate previously/current generated commands
