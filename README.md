@@ -36,3 +36,8 @@ python3 main.py --flag "Your prompt/query"
 > -is or --install return only the steps needed to install a tool
 
 > -rg or --regenrate is used to regenerate previously/current generated commands
+
+### Sample: 
+
+![sage-c](https://github.com/c4rb0nx1/Sage/assets/90444898/7001821b-88e9-4aea-bf16-a9eabf1d5c0e)
+
